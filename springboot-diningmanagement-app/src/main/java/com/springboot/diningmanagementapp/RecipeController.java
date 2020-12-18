@@ -1,5 +1,5 @@
-package com.springboot.diningmanagementapp;
 
+package com.springboot.diningmanagementapp;
 import java.util.ArrayList;
 import java.util.List;
 
